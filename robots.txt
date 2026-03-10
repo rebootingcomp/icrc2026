@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icrc2026.org/sitemap-index.xml
